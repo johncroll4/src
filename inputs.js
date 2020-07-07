@@ -1,4 +1,5 @@
 //handlebars demo and read from form
+//test comment for branch
 import Handlebars from './handlebars-v4.7.6.js';
 
 window.sessionStorage.setItem('defaultDistributed', 0);
